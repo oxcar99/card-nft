@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    height: 100vw;
+    background-color: #0D1A2D;
+    align-items: center;
+    margin-top: 50px
+}
+
+.card{
+    background-color: #16263F;
+    width: 25%;
+    margin: auto;
+    padding: 15px;
+}
+
+.content{
+    text-align: center;
+}
+
+.card img{
+    width: 90%;
+}
+
+h1{
+    font-size: 24px;
+    margin: 10px;
+    color: #BEC6D6;
+}
+
+.card p{
+    font-size: 18px;
+    margin: 10px;
+    color: #485976;
+}
+
+.costo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.costo .ETH{
+    color: #20F5EF;
+}
+
+.costo .DAY{
+    color: #8FA9D1;
+}
+
+footer{
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+}
+
+footer img{
+    max-width: 50px;
+}
+
+span{
+    color: #F0F0F0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
